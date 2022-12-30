@@ -2,7 +2,7 @@
 
 A exploration of working with an API and pythons visualization tools. 
 
-Created as a solo project. To view this project, navigate to `adsf`. 
+Created as a solo project. To view this project, navigate to `Covid_Report.ipynb`. 
 
 ## Technologies
 The analysis and report was made in Google Collab, using python3 with packages such as requests, json, and pandas.
@@ -12,4 +12,4 @@ Clone this repository.
 
 If needed, install Jupyter and python3 on your local machine, and set up the Jupyter kernel to run python3 code. 
 
-Open up the report (`dsfsadf`), install the necessary packages, then run all the cells. Enjoy!
+Open up the report (`Covid_Report.ipynb`), install the necessary packages, then run all the cells. Enjoy!
